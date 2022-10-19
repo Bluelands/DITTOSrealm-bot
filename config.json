@@ -1,0 +1,13 @@
+{
+    "config": {
+        "name": "Wilco",
+        "guild": "796098364961587201",
+        "channel": "1005278709550424245",
+        "prefix": "$",
+        "host": "WilcoDev",
+        "admins": [
+            "710744237712343052"
+        ]
+    },
+    "type": "config" 
+}
